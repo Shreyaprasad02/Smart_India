@@ -1,1 +1,1 @@
-# Smart_India
+# Smart India Hackathon 2022
